@@ -53,6 +53,7 @@ and put the value you want inside-->
 <!-- Then call the start method!-->
 <script>numberTicker.start();</script>
 ```
+Note for small numbers: if the iterations value is higher than the target, it will automatically adjust the iterations value to match the target. You want that, believe me.
 
 ####Overriding Initial and Target Values
 
