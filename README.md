@@ -3,7 +3,7 @@ NumberTicker.js
 
 A Very Tiny Number Ticker Script
 
-##<a href="http://numberticker.com">Demos</a>
+###<a href="http://numberticker.com">Demos</a>
 
 What Does It Do?
 ---------------
